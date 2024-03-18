@@ -96,7 +96,7 @@ By doing this, the company can:
   -DataRobot should rely on the expertise of financial advisors and tech-giants who have already paved the way to success.
 
 ##
-[1] https://www.crunchbase.com/organization/datarobot 
+[^1]: https://www.crunchbase.com/organization/datarobot   
 [2] https://research.contrary.com/reports/datarobot?head=;;founding--;;story  
 [3] https://www.crunchbase.com/organization/datarobot/company_financials   
 [4] https://www.forbes.com/companies/datarobot/?sh=6ea6b3436320    
