@@ -1,6 +1,6 @@
 # AI CASE STUDY
 AI Case Study [Module 1 Challenge]
-
+.
 **DataRobot: Overview and Origin**
 
 DataRobot was founded in June 2012 by Jeremy Achin (former CEO) and Thomas DeGodoy (former CTO), who were data scientists working at Travelers Insurance company at the time. [^1]
