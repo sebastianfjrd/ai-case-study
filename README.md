@@ -97,15 +97,15 @@ By doing this, the company can:
 
 ##
 [^1]: https://www.crunchbase.com/organization/datarobot   
-[2] https://research.contrary.com/reports/datarobot?head=;;founding--;;story  
-[3] https://www.crunchbase.com/organization/datarobot/company_financials   
-[4] https://www.forbes.com/companies/datarobot/?sh=6ea6b3436320    
-[5] https://www.datarobot.com/about-us/    
-[6] https://www.datarobot.com/customers/     
-[7] https://www.youtube.com/watch?v=S4a85A5Qj7g     
-[8] https://www.datarobot.com/resources/economic-benefits-of-datarobot-ai-platform-esg-study/      
-[9] https://www.datarobot.com/platform/new/datarobot-9-0/      
-[10] https://www.thebusinessresearchcompany.com/report/automated-machine-learning-automl-global-market-report#:~:text=The%20automated%20machine%20learning%20(AutoML)%20market%20size%20has%20grown%20exponentially,(CAGR)%20of%2044.9%25.         
-[11] https://www.forbes.com/sites/deloitte/2024/03/04/governments-and-supply-chain-resilience-the-art-of-the-possible/?sh=70a3783c4eff         
-[12] https://www.forbes.com/companies/datarobot/?sh=6ea6b3436320           
-[13] https://www.datarevenue.com/en-blog/ml-platforms-dataiku-vs-alteryx-vs-sagemaker#:~:text=Use%20Datarobot%20if%20you%20have,own%20custom%20machine%20learning%20models.            
+[^2]: https://research.contrary.com/reports/datarobot?head=;;founding--;;story  
+[^3]: https://www.crunchbase.com/organization/datarobot/company_financials   
+[^4]: https://www.forbes.com/companies/datarobot/?sh=6ea6b3436320    
+[^5]: https://www.datarobot.com/about-us/    
+[^6]: https://www.datarobot.com/customers/     
+[^7]: https://www.youtube.com/watch?v=S4a85A5Qj7g     
+[^8]: https://www.datarobot.com/resources/economic-benefits-of-datarobot-ai-platform-esg-study/      
+[^9]: https://www.datarobot.com/platform/new/datarobot-9-0/      
+[^10]: https://www.thebusinessresearchcompany.com/report/automated-machine-learning-automl-global-market-report#:~:text=The%20automated%20machine%20learning%20(AutoML)%20market%20size%20has%20grown%20exponentially,(CAGR)%20of%2044.9%25.         
+[^11]: https://www.forbes.com/sites/deloitte/2024/03/04/governments-and-supply-chain-resilience-the-art-of-the-possible/?sh=70a3783c4eff         
+[^12]: https://www.forbes.com/companies/datarobot/?sh=6ea6b3436320           
+[^13]: https://www.datarevenue.com/en-blog/ml-platforms-dataiku-vs-alteryx-vs-sagemaker#:~:text=Use%20Datarobot%20if%20you%20have,own%20custom%20machine%20learning%20models.            
