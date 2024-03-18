@@ -1,4 +1,4 @@
-# AI CASE STUDY 
+# AI CASE STUDY
 AI Case Study [Module 1 Challenge]
 
 **DataRobot: Overview and Origin**
@@ -28,7 +28,8 @@ In other words, DataRobot is the leading technology company and platform innovat
 
 In March 2023, DataRobot announced its new AI Platform 9.0 — a lifecycle platform built for predictive and generative AI with broad ecosystem interoperability. it's the only open, complete AI lifecycle platform leveraging ML that has broad interoperatbility, end-to-end capabilities for Experimentation and Production and can be deployed on-premises or in any cloud infrastructure. [^9]
 
-![alt text](DataRobot AI Platform.jpeg)
+![DataRobot AI Platform](https://images.prismic.io/contrary-research/c4c8c655-1af2-4918-a1aa-4f1ea96c3c31_1.png?auto=compress,format)
+*Source: DataRobot*
 
 The platform centers around several modules:
 
@@ -87,24 +88,24 @@ If i was in a position to advise DataRobot i would say:
 
 By doing this, the company can:
 
-- Use their cash in hand and revenues /resource wisely to allow further expansion
-- Improve profitability 
-- Become an expert and go-to solution on these specific sectors
-- Achieve a thorough understanding of the market, competitors and most importantly their clients.
+  - Use their cash in hand and revenues /resource wisely to allow further expansion
+  - Improve profitability 
+  - Become an expert and go-to solution on these specific sectors
+  - Achieve a thorough understanding of the market, competitors and most importantly their clients.
 
-DataRobot should rely on the expertise of financial advisors and tech-giants who have already paved the way to success.
+  -DataRobot should rely on the expertise of financial advisors and tech-giants who have already paved the way to success.
 
-
-[1] https://www.crunchbase.com/organization/datarobot
-[2] https://research.contrary.com/reports/datarobot?head=;;founding--;;story
-[3] https://www.crunchbase.com/organization/datarobot/company_financials
-[4] https://www.forbes.com/companies/datarobot/?sh=6ea6b3436320
-[5] https://www.datarobot.com/about-us/
-[6] https://www.datarobot.com/customers/
-[7] https://www.youtube.com/watch?v=S4a85A5Qj7g
-[8] https://www.datarobot.com/resources/economic-benefits-of-datarobot-ai-platform-esg-study/
-[9] https://www.datarobot.com/platform/new/datarobot-9-0/
-[10] https://www.thebusinessresearchcompany.com/report/automated-machine-learning-automl-global-market-report#:~:text=The%20automated%20machine%20learning%20(AutoML)%20market%20size%20has%20grown%20exponentially,(CAGR)%20of%2044.9%25.
-[11] https://www.forbes.com/sites/deloitte/2024/03/04/governments-and-supply-chain-resilience-the-art-of-the-possible/?sh=70a3783c4eff
-[12] https://www.forbes.com/companies/datarobot/?sh=6ea6b3436320
-[13] https://www.datarevenue.com/en-blog/ml-platforms-dataiku-vs-alteryx-vs-sagemaker#:~:text=Use%20Datarobot%20if%20you%20have,own%20custom%20machine%20learning%20models.
+##
+[1] https://www.crunchbase.com/organization/datarobot 
+[2] https://research.contrary.com/reports/datarobot?head=;;founding--;;story  
+[3] https://www.crunchbase.com/organization/datarobot/company_financials   
+[4] https://www.forbes.com/companies/datarobot/?sh=6ea6b3436320    
+[5] https://www.datarobot.com/about-us/    
+[6] https://www.datarobot.com/customers/     
+[7] https://www.youtube.com/watch?v=S4a85A5Qj7g     
+[8] https://www.datarobot.com/resources/economic-benefits-of-datarobot-ai-platform-esg-study/      
+[9] https://www.datarobot.com/platform/new/datarobot-9-0/      
+[10] https://www.thebusinessresearchcompany.com/report/automated-machine-learning-automl-global-market-report#:~:text=The%20automated%20machine%20learning%20(AutoML)%20market%20size%20has%20grown%20exponentially,(CAGR)%20of%2044.9%25.         
+[11] https://www.forbes.com/sites/deloitte/2024/03/04/governments-and-supply-chain-resilience-the-art-of-the-possible/?sh=70a3783c4eff         
+[12] https://www.forbes.com/companies/datarobot/?sh=6ea6b3436320           
+[13] https://www.datarevenue.com/en-blog/ml-platforms-dataiku-vs-alteryx-vs-sagemaker#:~:text=Use%20Datarobot%20if%20you%20have,own%20custom%20machine%20learning%20models.            
