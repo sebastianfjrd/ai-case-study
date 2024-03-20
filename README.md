@@ -20,9 +20,11 @@ DataRobot's main users consist of data scientists who are proficient in developi
 The company predominantly targets the enterprise market, attracting organizations at various stages of their AI initiatives. As of September 2022, about a third of Fortune 50 firms were among their clientele, spanning sectors such as healthcare, manufacturing, retail, and financial services.  [^6]
 
 DataRobot excels in automating ML processes, enhancing efficiency through automated data preparation, model development, time series forecasting, and deployment. What sets them apart from competitors is their unique three-step approach. 
-1. They begin by identifying the customer's business issues, then reverse-engineer from the business problem to integrate technology and scientific elements. 
-2. This holistic view of AI encompasses not just scientific and technological aspects but also involves the end-to-end process of building, deploying, operating, and governing AI solutions, which DataRobot seamlessly performs in unison. 
-3. Moreover, their team of customer-facing data scientists assists clients in transforming their projects from concept to realization, positioning DataRobot as a frontrunner in value-oriented AI solutions. [^7]
+
+>1. They begin by identifying the customer's business issues, then reverse-engineer from the business problem to integrate technology and scientific elements.
+>2. This holistic view of AI encompasses not just scientific and technological aspects but also involves the end-to-end process of building, deploying, operating, and governing AI solutions, which DataRobot seamlessly performs in unison.
+>3. Moreover, their team of customer-facing data scientists assists clients in transforming their projects from concept to realization, positioning DataRobot as a frontrunner in value-oriented AI solutions. [^7]
+   
 
 In other words, DataRobot is the leading technology company and platform innovator that brings predictive and generative AI capabilities together with the governance, observability, and security we need at scale. ESG interviewed global organizations about the economic impact of the DataRobot AI Platform and found that it could provide a 3.5x to 4.6x ROI, at up to 5x lower cost, while delivering the required capabilities up to 10x faster. The Economic Benefits of DataRobot AI Platform highlights: 83% faster operrationalization of models, 93% faster propagation of analytics capabilities to new areas across the organization, Up to 80% cost savings, compared to using exisitng resources of building new teams. [^8]
 
